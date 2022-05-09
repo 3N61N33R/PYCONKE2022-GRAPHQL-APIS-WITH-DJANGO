@@ -1,0 +1,47 @@
+[
+    {
+        "model": "app.workshop",
+        "pk": 1,
+        "fields": {
+            "title": "Inroduction to GraphQL APIs",
+            "speaker": "",
+            "location": ""
+        }
+    },
+    {
+        "model": "app.workshop",
+        "pk": 2,
+        "fields": {
+            "title": "Python Crash Course",
+            "speaker": "E M",
+            "location": ""
+        }
+    },
+    {
+        "model": "app.workshop",
+        "pk": 3,
+        "fields": {
+            "title": "GraphQL APIs, What's New?",
+            "speaker": "J C",
+            "location": ""
+        }
+    },
+    {
+        "model": "app.workshop",
+        "pk": 4,
+        "fields": {
+            "title": "GraphQL APIs + Django + DRF",
+            "speaker": "D H",
+            "location": ""
+        }
+    },
+    {
+        "model": "app.workshop",
+        "pk": 5,
+        "fields": {
+            "title": "Test Driven Development",
+            "speaker": "R CM",
+            "location": ""
+        }
+    }
+]
